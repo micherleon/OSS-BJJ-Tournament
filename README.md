@@ -83,7 +83,7 @@ After the event, this section helps gather insights:
 ## 📤 Want to Contribute or Replicate?
 
 - Fork the project on GitHub
-- Add your modifications (e.g. youth rules, gi version)
+- Add your modifications
 - Credit the original concept
 - Share it with your local BJJ/Grappling community
 
